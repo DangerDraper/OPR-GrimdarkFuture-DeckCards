@@ -1,0 +1,70 @@
+Card 	Card Type	Name			Image			Alt Image
+A001A	Rules		Movement		move	
+A002A	Rules		Terrain			hills	
+A003A	Rules		Climb			mountain-climbing	
+A004A	Rules		Line of Sight		target-shot	
+A005A	Rules		Melee Attack		mailed-fist	
+A006A	Rules		Range Attack		high-shot	
+A007A	Rules		Pinned			nailed-foot	
+A008A	Rules		Immobile		
+A009A	Rules			
+A010A	Rules			
+A011A	Rules			
+A012A	Rules			
+A013A	Rules			
+A014A	Rules			
+A015A	Rules			
+A016A	Rules			
+A017A	Rules			
+A018A	Rules			
+A019A	Rules			
+A020A	Rules			
+A021A	Rules			
+A022A	Rules			
+A023A	Rules			
+A024A	Rules			
+A025A	Rules			
+A026A	Rules			
+A027A	Rules			
+A028A	Rules			
+A029A	Rules		House Rules (Blank)		
+A030A	Special		Aircraft		jet-fighter	
+A031A	Special		Ambush		
+A032A	Special		Fast			winged-foot	
+A033A	Special		Fear			spider-faces	
+A034A	Special		Fearless		medal	
+A035A	Special		Flying		
+A036A	Special		Hero			crowned-heart	
+A037A	Special		Immobile		
+A038A	Special		Impact[X]		
+A039A	Special		Psychic[X]		
+A040A	Special		Regeneration		
+A041A	Special		Relentless		
+A042A	Special		Scout			spyglass	
+A043A	Special		Slow			snail	
+A044A	Special		Stealth			hood	
+A045A	Special		Strider			hiking	
+A046A	Special		Tough[X]		bicepts	
+A047A	Special		Transport[X]		
+A048A	Special			
+A049A	Special			
+A050A	Special		Deadly			dread-skull	
+A051A	Special		Blast[x]		
+A052A	Special		Rending		
+A053A	Special			
+A054A	Special			
+A055A	Special			
+A056A	Special			
+A057A	Special			
+A058A	Special			
+A059A	Special			
+A060A	Special			
+A061A	Special			
+A062A	Special			
+A063A	Special			
+A064A	Special			
+A065A	Special			
+A066A	Special			
+A067A	Special			
+A068A	Special			
+A069A	Special			

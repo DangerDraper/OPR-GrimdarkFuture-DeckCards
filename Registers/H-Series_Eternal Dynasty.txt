@@ -1,0 +1,86 @@
+Card No.	Card Type	Name	
+H001A		Faction		Eternal Dynasty		
+H002A		Faction		Eternal Dynasty Psychic		
+H003A		Psychic		Weaken Soul		
+H004A		Psychic		Dragon Breath		
+H005A		Psychic		Eternal Guidance		
+H006A		Psychic		Mind Challenge		
+H007A		Psychic		Spirit Wind		
+H008A		Psychic		Spirit Vortex		
+H009A		Unit		ONI Captain		
+H009B		Unit		ONI Captain + Heavy Fists		
+H009C		Unit		ONI Captain + Great Sword		
+H009D		Unit		ONI Captain + Heavy Glaive		
+H010A		Unit		Dynasty Leader		
+H010B		Unit		Dynasty Sage		
+H010C		Unit		Dynasty Strategist		
+H010D		Unit		Dynasty Warlord		
+H010E		Unit		Dynasty Captain		
+H011A		Unit		Warriors + Long Rifles		
+H011B		Unit		Warriors + 4x Long Rifles + Plasma Rifle		
+H011C		Unit		Warriors + 4x Long Rifles + Fusion Rifle		
+H011D		Unit		Warriors + 4x Long Rifles + Flamethrower		
+H011E		Unit		Warriors + 4x Long Rifles + Shred Rifle		
+H011F		Unit		Warriors + Shotguns		
+H011G		Unit		Warriors + 4x Shotguns + Plasma Rifle		
+H011H		Unit		Warriors + 4x Shotguns + Fusion Rifle		
+H011J		Unit		Warriors + 4x Shotguns + Flamethrower		
+H011K		Unit		Warriors + 4x Shotguns + Shred Rifle		
+H011L		Unit		Warriors + Carbines		
+H011M		Unit		Warriors + 4x Carbines + Plasma Rifle		
+H011N		Unit		Warriors + 4x Carbines + Fusion Rifle		
+H011P		Unit		Warriors + 4x Carbines + Flamethrower		
+H011Q		Unit		Warriors + 4x Carbines + Shred Rifle		
+H012A		Unit		Scouts + 5x Long Rifles		
+H012B		Unit		Scouts + 4x Long Rifles + Carbines		
+H012C		Unit		Scouts + 3x Long Rifles + 2x Carbines		
+H012D		Unit		Scouts + 2x Long Rifles + 3x Carbines		
+H012E		Unit		Scouts + 1x Long Rifles + 4x Carbines		
+H012F		Unit		Scouts + 5x Carbines		
+H012G		Unit		Scouts + 4x Long Rifles + Energy Rifle		
+H012H		Unit		Scouts + 3x Long Rifles + 2x Energy Rifle		
+H012J		Unit		Scouts + 2x Long Rifles + 3x Energy Rifle		
+H012K		Unit		Scouts + 4x Long Rifles + Sniper Rifles		
+H012L		Unit		Scouts + 3x Long Rifles + 2x Sniper Rifles		
+H012M		Unit		Scouts + 2x Long Rifles + 3x Sniper Rifles		
+H013A		Unit		Ninja + 10x Auto Guns		
+H014B		Unit			
+H014A		Unit		Ninja + 10x Swords		
+H015B		Unit			
+H015A		Unit		Ninja + 10x Sickles		
+H016B		Unit			
+H016A		Unit		Royal Guard + 5x Spear Shots		
+H016B		Unit		Royal Guard + 4x Spear Shots + Spear-Plasma		
+H016C		Unit		Royal Guard + 3x Spear Shots + 2x Spear-Plasma		
+H016G		Unit		Royal Guard + 4x Spear Shots + Spear-Fuse		
+H016H		Unit		Royal Guard + 3x Spear Shots + 2x Spear-Fuse		
+H016J		Unit		Royal Guard + 4x Spear Shots + Spear-Flame		
+H016K		Unit		Royal Guard + 3x Spear Shots + 2x Spear-Flame		
+H016L		Unit		Royal Guard + 4x Spear Shots + Spear-Shred		
+H016M		Unit		Royal Guard + 3x Spear Shots + 2x Spear-Shred		
+H017A		Unit		ONI + Heavy Glaives		
+H017B		Unit		ONI + 6x Heavy Fist		
+H018A		Unit		Cyberbeast		
+H018B		Unit		Cyberbeast + Huntmaster		
+H019A		Unit		Cyberbird		
+H019B		Unit		Cyberbird + Huntmaster		
+H020A		Unit		Cyber Lizards		
+H020B		Unit		Cyber Lizards + Huntmaster		
+H021A		Unit		Dynasty APC		
+H021B		Unit		Dynasty APC + 2x Heavy Flame Throwers		
+H021C		Unit		Dynasty APC + Heavy Flamethrowers + Heavy Lazer Gun		
+H022A		Unit		Dynasty Tank		
+H022B		Unit			
+H023A		Unit		Dragon Bike		
+H023B		Unit			
+H024A		Unit		ONI Walker		
+H025B		Unit			
+H026A		Unit		Ninja Walker		
+H027B		Unit			
+H028A		Unit		Samurai Titan + Heavy Titan Sword		
+H028B		Unit		Samurai Titan + Heavy Lazer Rifle		
+H028C		Unit		Samurai Titan + Heavy Plasma Rifle		
+H028D		Unit		Samuari Titan + Shred Rifle		
+H029A		Unit		Artillery Titan		
+H029B		Unit			
+H030A		Unit		Dragon Titan		
